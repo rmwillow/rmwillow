@@ -1,6 +1,6 @@
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rmwillow&show_icons=true&theme=radical&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rmwillow&show_icons=true&theme=radical&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 
 <a>
@@ -8,7 +8,7 @@
 </a>
 
 ---
-
+<br />
 
 
 
