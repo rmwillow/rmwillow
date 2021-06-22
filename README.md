@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://github.com/afritzler/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmwillow&hide=javascript,html,css&layout=compact&langs_count=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmwillow&hide=html,css&layout=compact&langs_count=20" />
 </a>
 
 ---
