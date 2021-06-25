@@ -7,10 +7,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmwillow&show_icons=true&theme=radical&hide=html,css&layout=compact&langs_count=20" />
   </a>
 
-----------------------------------------
+--------------------------------------------------------------------------------
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rmwillow.github)
 
+<br />
+
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-RachelMcGrath-pink?logo=linkedin)](www.linkedin.com/in/rachel-mcgrath)
 
 <!--
 **rmwillow/rmwillow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
