@@ -13,7 +13,7 @@
 
 <br />
 
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-RachelMcGrath-pink?logo=linkedin)](www.linkedin.com/in/rachel-mcgrath)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-RachelMcGrath-pink?logo=linkedin)](https://www.linkedin.com/in/rachel-mcgrath-605a361b8/)
 
 <!--
 **rmwillow/rmwillow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
