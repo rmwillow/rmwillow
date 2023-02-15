@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on my educational growth
-- 🌱 I’m currently learning full stack software development
+- 🌱 I’m currently learning more on BIG Data Engineering
 - 👯 I’m looking to collaborate on any projects that can help make the load lighter for workers and enhance productivity.
 - 🤔 I’m looking for help with learning how to enhance security within applications
 - 💬 Ask me about my current project
