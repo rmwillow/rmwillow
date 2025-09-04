@@ -21,10 +21,13 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my educational growth
-- 🌱 I’m currently learning more on BIG Data Engineering
-- 👯 I’m looking to collaborate on any projects that can help make the load lighter for workers and enhance productivity.
-- 🤔 I’m looking for help with learning how to enhance security within applications
-- 💬 Ask me about my current project
-- ⚡ Fun fact: I would like to start my own company one day
+🔭 I build and manage scalable data pipelines across Snowflake, AWS, Redshift, and SAP HANA to support both e-commerce and retail analytics.
+
+🧰 I develop automation tools and backend systems in Python to streamline operations, run scheduled workflows, and maintain data integrity.
+
+🌱 I’m constantly learning and refining my skills in Big Data engineering, cloud infrastructure, and security best practices.
+
+👯 Always open to collaborating on projects that enhance performance, reduce manual work, and deliver value at scale.
+
+⚡ Fun fact: My brand was inspired by fitness, recovery, and family — and now it's helping others build their own health journey, one supplement at a time.
 
